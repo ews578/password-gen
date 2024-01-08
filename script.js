@@ -27,6 +27,7 @@ function generatePassword() {
   var choseSpecial = confirm("Do you want to include a special charater?");
 
   //create variables to hold choices
+  
   var lowercase = "abcdefghijklmnopqrstuvwxyz";
   var uppercase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
   var numbers = "01234566789";
